@@ -3,7 +3,7 @@
 function getTutorialInfo() {
   return {
     exerciseNum: 2, //make sure that this is the right number of the current exercise
-    groupNames: 'Manasa Shivakumar, Mitul Chauhan and Shradha Dudhwadkar', //provide the names of each team member
+    groupNames: 'Manasa Shivakumar', //provide the names of each team member
     isAnimated: false, //if set to true, shapes will be rendered roughly 60 times per second
   }
 }
