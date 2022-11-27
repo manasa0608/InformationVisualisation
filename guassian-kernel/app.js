@@ -1,5 +1,6 @@
 'use strict'
 
+//Author: Manasa Shivakumar
 function getTutorialInfo() {
   return {
     exerciseNum: 2, //make sure that this is the right number of the current exercise
